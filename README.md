@@ -14,6 +14,9 @@ Jorge Caballero
 Widlyn Placide 
 
 # Fuente de datos: 
+
+La fuente proporciona información estadística sobre diferentes sectores que se pueden descargar en formato CSV o DOC
+
 # Referencias: 
 2) https://vincentarelbundock.github.io/Rdatasets/datasets.html
 1) https://vincentarelbundock.github.io/Rdatasets/datasets.html
