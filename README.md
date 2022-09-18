@@ -7,9 +7,11 @@ Angie Palma
 Ayleen Nuñez 
 Daniela Cea 
 Madelyn Barrera
+María Aguirre
 Mariela Flores 
 Maryori Flores 
 Jorge Caballero
+Widlyn Placide 
 
 # Fuente de datos: 
 # Referencias: 
