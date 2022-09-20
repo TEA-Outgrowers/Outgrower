@@ -1,5 +1,5 @@
 # Outgrower
-Software para determinar temperatura óptima para desarrollo de una semilla
+Software para determinar temperatura óptima para el desarrollo de una semilla
 
 # Members:
 Ana Murray
