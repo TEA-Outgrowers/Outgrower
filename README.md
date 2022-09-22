@@ -22,3 +22,4 @@ La fuente proporciona información estadística sobre diferentes sectores que se
 1) https://vincentarelbundock.github.io/Rdatasets/datasets.html 
 
 En este repositorio se encuentra posteada la propuesta de proyecto
+Este proyecto nos funciona como agronomos para el desarrollo de una semilla con la ayuda de la temperatura, que este proceso activa metabolicos gracias a eso y la expansión del embrión. 
