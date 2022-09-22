@@ -21,4 +21,4 @@ La fuente proporciona información estadística sobre diferentes sectores que se
 2) https://vincentarelbundock.github.io/Rdatasets/datasets.html
 1) https://vincentarelbundock.github.io/Rdatasets/datasets.html 
 
-En este repositorio se encuentra subida la propuesta de proyecto
+En este repositorio se encuentra posteada la propuesta de proyecto
