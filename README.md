@@ -27,6 +27,8 @@ Ayleen Nuñez (ayleen.nunez@est.zamorano.edu; ayleennunez)
 
 Daniela Cea (daniela.cea@est.zamorano.edu; Dannncea05
 
+Jorge Caballero(jorge.a.caballero@est.zamorano.edu; jorge1a2caballero)
+
 Madelyn Barrera(madelyn.barrera@est.zamorano.edu; MadelynBarrera24)
 
 María Aguirre ( mariajose.aguirre@est.zamorano.edu; mariajoseag77)
@@ -34,8 +36,6 @@ María Aguirre ( mariajose.aguirre@est.zamorano.edu; mariajoseag77)
 Mariela Flores (mariela.g.flores@est.zamorano.edu;marielagissellef)
 
 Maryori Flores (maryori.flores@est.zamorano.edu;maryori23)
-
-Jorge Caballero(jorge.a.caballero@est.zamorano.edu; jorge1a2caballero)
 
 Widlyn Placide(widlyn.placide@est.zamorano.edu; Widcrypt) 
 
