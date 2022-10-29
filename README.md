@@ -17,7 +17,9 @@ desarrollar un programa que permitiera determinar con mayor precisión una tempe
 
 #	Resultados y discusiones (Graficas)
 
-#Conclusiones 
+# Conclusiones
+
+# Proyección futuro 
 
 
 # Developers 
@@ -42,7 +44,7 @@ Maryori Flores (maryori.flores@est.zamorano.edu;maryori23)
 Widlyn Placide(widlyn.placide@est.zamorano.edu; Widcrypt) 
 
 
-# Fuente de datos: 
+# Fuente de datos: (tabla)
 La fuente proporciona información estadística sobre diferentes temas y sobre diferentes países descargable en formato CSV o DOC.
 
 # Referencias: 
