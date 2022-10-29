@@ -17,6 +17,8 @@ desarrollar un programa que permitiera determinar con mayor precisión una tempe
 
 #	Resultados y discusiones (Graficas)
 
+#Conclusiones 
+
 
 # Developers 
 Ana Murray (ana.murray@est.zamorano.edu ; anamurrayy) 
