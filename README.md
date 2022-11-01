@@ -17,6 +17,10 @@ desarrollar un programa que permitiera determinar con mayor precisión una tempe
 
 #	Resultados y discusiones (Graficas)
 
+## Ejemplo de Gráficas y subsecciones
+
+<img height="400" src="https://raw.githubusercontent.com/TEA-Outgrowers/Outgrower/graph-species.png" align="middle">
+
 # Conclusiones
 
 # Proyección futuro 
