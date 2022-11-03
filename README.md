@@ -15,7 +15,12 @@ desarrollar un programa que permitiera determinar con mayor precisión una tempe
 
 
 # Métodos y herramientas utilizados  
-
+## Herramientas 
+Github 
+Jupyter Notebooks 
+Matplotlib
+Pandas 
+Python programming language
 
 #	Resultados y discusiones (Graficas)
 
