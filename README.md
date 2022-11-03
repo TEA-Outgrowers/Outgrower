@@ -1,5 +1,5 @@
 # Outgrower
-El objetivo de este software es determinar la temperatura óptima requerida para germinar el máximo número de semillas para los cultivos de trigo, mungbean y arroz. 
+Este proyecto gira en torno a la creación de un software determinar la temperatura óptima requerida para germinar el máximo número de semillas para los cultivos de trigo, mungbean y arroz. 
 
 # Objetivos 
 1. Con el uso de los conocimientos adquiridos sobre el lenguaje de programación python, los alumnos crearán un programa con aplicabilidad en la agricultura. 
