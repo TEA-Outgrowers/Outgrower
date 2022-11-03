@@ -57,6 +57,7 @@ Widlyn Placide(widlyn.placide@est.zamorano.edu; Widcrypt)
 
 # Fuente de datos: (tabla)
 La fuente proporciona información estadística sobre diferentes temas y sobre diferentes países descargable en formato CSV o DOC.
+#enlace de datos lipia y original
 
 # Referencias: 
 https://vincentarelbundock.github.io/Rdatasets/datasets.html 
