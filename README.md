@@ -12,6 +12,13 @@ El sector agrícola también es uno de los principales beneficiarios. Basándono
 desarrollar un programa que permitiera determinar con mayor precisión una temperatura media óptima para la germinación ideal de determinadas especies a partir de los datos recogidos tras varios experimentos.
 
 # Importancia de un tal programa
+La temperatura es un factor decisivo en el proceso de la germinación, ya que influye
+sobre las enzimas que regulan la velocidad de las reacciones bioquímicas que ocurren en la
+semilla después de la rehidratación. La actividad de cada enzima tiene lugar entre un máximo y
+un mínimo de temperatura, existiendo un óptimo intermedio. Del mismo modo, en el proceso
+de germinación pueden establecerse unos límites similares. Por ello, las semillas sólo germinan
+dentro de un cierto margen de temperatura. Si la temperatura es muy alta o muy baja, la
+geminación no tiene lugar, aunque las demás condiciones sean favorables.
 
 
 # Métodos y herramientas utilizados  
