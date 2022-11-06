@@ -47,7 +47,7 @@ Pandas
 
 ## Ejemplo de Gráficas y subsecciones
 
-<img height="400" src="https://raw.githubusercontent.com/TEA-Outgrowers/Outgrower/master/graph-species.png" align="middle">
+<img height="400" src="https://github.com/TEA-Outgrowers/Outgrower/blob/main/graph_germinated_max.png" align="middle"> 
 
 # Conclusiones
 
