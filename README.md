@@ -32,9 +32,13 @@ Pandas permitió subir la fuente de datos a memoria y leerla para analizar y fil
 La biblioteca Matplotlib fue utilizada para producir los diversos gráficos de manera a  interpretar los resultados.
 ## Herramientas 
 Python programming language
+
 Github 
+
 Jupyter Notebooks 
+
 Matplotlib
+
 Pandas 
 
 #	Resultados y discusiones (Graficas)
