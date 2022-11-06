@@ -1,10 +1,9 @@
 # Outgrower
-Este proyecto gira en torno a la creación de un software determinar la temperatura óptima requerida para germinar el máximo número de semillas para los cultivos de trigo, mungbean y arroz. 
+Este proyecto gira en torno a la creación de un software determinar la temperatura óptima requerida para determinar la óptima temperatura para lograr la germinación máxima de una dada cantidad de semillas para los cultivos de trigo, frijol mungo y arroz. 
 
 # Objetivos 
-1. Con el uso de los conocimientos adquiridos sobre el lenguaje de programación python, los alumnos crearán un programa con aplicabilidad en la agricultura. 
-2. Con el uso del lenguaje de programación python se desarrollará un software que determine las temperaturas óptimas para la germinación de semillas de diferentes cultivos 
-3. Con el uso de este programa, las personas del sector agrícola podrán aplicarlo a futuros planes de siembras de diferentes cultivos, para tener una mejor idea de las temperaturas ideales con las que deben trabajar. 
+1. Usar el lenguaje de programación python para crear un programa con aplicabilidad en la agricultura. 
+2. Uso del lenguaje de programación python para desarrollar un software que determine las temperaturas óptimas para la germinación de semillas de diferentes cultivos. 3. Brindar al sector agrícola un programa que se pueda aplicar a los planes de siembra de diferentes cultivos con una idea más precisa de la temperatura óptima de germinación. 
 
 # Introducción 
 La tecnología es cada vez más imprescindible para nosotros hoy en día, porque nos facilita el trabajo en todos los ámbitos.
@@ -22,7 +21,7 @@ geminación no tiene lugar, aunque las demás condiciones sean favorables.
 
 
 # Métodos y herramientas utilizados  
-El lenguaje de programación utilizado en la realización de este proyecto es python. Mediante la plataforma Github hemos creado una organización con un repositorio para almacenar y custodiar, la fuente de datos, los códigos generados para obtener los resultados, la documentación y la información relativa a los miembros.
+El lenguaje de programación utilizado en la realización de este proyecto es python. Mediante la plataforma Github hemos creado una organización con un repositorio para almacenar y custodiar, la fuente de datos, los códigos generados para obtener los resultados, la documentación y información relativa a los miembros.
 
 Los datos utilizados se recopilaron a partir de un conjuntos de datos de los #proyectos de Github por Vincent Arel-Bundock#(https://vincentarelbundock.github.io/Rdatasets/datasets.html). La fuente de datos seleccionada fue "Germination of three crops" en formato CSV dónde se evaluó diferentes respuestas de germinación de 3 especies: trigo, arroz y mungo frijol entre las temperaturas de 10 a 40 C.
 
