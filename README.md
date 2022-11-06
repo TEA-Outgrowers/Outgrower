@@ -3,7 +3,10 @@ Este proyecto gira en torno a la creación de un software determinar la temperat
 
 # Objetivos 
 1. Usar el lenguaje de programación python para crear un programa con aplicabilidad en la agricultura. 
-2. Uso del lenguaje de programación python para desarrollar un software que determine las temperaturas óptimas para la germinación de semillas de diferentes cultivos. 3. Brindar al sector agrícola un programa que se pueda aplicar a los planes de siembra de diferentes cultivos con una idea más precisa de la temperatura óptima de germinación. 
+
+2. Uso del lenguaje de programación python para desarrollar un software que determine las temperaturas óptimas para la germinación de semillas de diferentes cultivos. 
+
+3. Brindar al sector agrícola un programa que se pueda aplicar a los planes de siembra de diferentes cultivos con una idea más precisa de la temperatura óptima de germinación. 
 
 # Introducción 
 La tecnología es cada vez más imprescindible para nosotros hoy en día, porque nos facilita el trabajo en todos los ámbitos.
