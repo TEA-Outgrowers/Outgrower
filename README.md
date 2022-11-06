@@ -14,74 +14,62 @@ El sector agrícola también es uno de los principales beneficiarios. Basándono
 desarrollar un programa que permitiera determinar con mayor precisión una temperatura media óptima para la germinación ideal de determinadas especies a partir de los datos recogidos tras varios experimentos.
 
 # Importancia de un tal programa
-La temperatura es un factor decisivo en el proceso de la germinación, ya que influye
+Dados los continuos cambios del clima en la actualidad, diversos factores importantes para el sector agrícola están sometidos a variaciones importantes que deben ser consideradas. Dentro de ellas,está la temperatura que es un factor decisivo en el proceso de la germinación, que influye
 sobre las enzimas que regulan la velocidad de las reacciones bioquímicas que ocurren en la
-semilla después de la rehidratación. La actividad de cada enzima tiene lugar entre un máximo y
+semilla después de la rehidratación.
+La actividad de cada enzima tiene lugar entre un máximo y
 un mínimo de temperatura, existiendo un óptimo intermedio. Del mismo modo, en el proceso
 de germinación pueden establecerse unos límites similares. Por ello, las semillas sólo germinan
 dentro de un cierto margen de temperatura. Si la temperatura es muy alta o muy baja, la
-geminación no tiene lugar, aunque las demás condiciones sean favorables.  
-
+geminación no tiene lugar, aunque las demás condiciones sean favorables. 
+Al determinar la temperatura óptimma para que se ocurren estos procesos se puede optar a crear las condiciones necesarios para lograrlos 
 
 # Métodos y herramientas utilizados  
-El lenguaje de programación utilizado en la realización de este proyecto es python. Mediante la plataforma Github hemos creado una organización con un repositorio para almacenar la fuente de datos, los códigos generados para obtener los resultados, la documentación y información relativa a los miembros.
+El lenguaje de programación utilizado en la realización de este proyecto es **Python**. Mediante la plataforma Github hemos creado una organización con un repositorio para almacenar la fuente de datos, los códigos generados para obtener los resultados, la documentación y información relativa a los miembros.
 
 Los datos utilizados se recopilaron a partir de un conjuntos de datos de los 
-[Proyectos de Github por Vincent Arel-Bundock](https://vincentarelbundock.github.io/Rdatasets/datasets.html). La fuente de datos seleccionada fue ##Germination of three crops## en formato CSV dónde se evaluó diferentes respuestas de germinación de 3 especies: trigo, arroz y mungo frijol entre las temperaturas de 10 a 40 C.
+**[Proyectos de Github por Vincent Arel-Bundock](https://vincentarelbundock.github.io/Rdatasets/datasets.html)**. La fuente de datos seleccionada fue **Germination of three crops** en formato CSV dónde se evaluó diferentes respuestas de germinación de 3 especies: trigo, arroz y mungo frijol entre las temperaturas de 10 a 40 C.
 
-La interfaz web ##Jupyter Notebook##  que nos permitió realizar las diferentes codificaciones con el lenguaje python y generar un documento que descargamos para guardarlo en el repositorio Github.
-Se han utilizado diferentes bibliotecas de Python para representar y analizar los datos:
-##Pandas## permitió subir la fuente de datos a memoria y leerla para analizar y filtrar la información más relevante.
-La biblioteca ##Matplotlib## fue utilizada para producir los diversos gráficos de manera a  interpretar los resultados.
-## Herramientas 
-Python programming language
+La interfaz web **[Jupyter Notebook](https://jupyter.org/)**  que nos permitió realizar las diferentes codificaciones con el lenguaje python y generar un documento que descargamos para guardarlo en el repositorio Github.
+Se ha utilizado el "open source" **[Pandas](https://pandas.pydata.org/)** para subir la fuente de datos a memoria, leerla para analizar y filtrar las informaciónes más relevantes. Y La biblioteca **[Matplotlib](https://matplotlib.org/)** fue utilizada para producir los diversos gráficos de manera a  interpretar los resultados.
 
-Github 
-
-Jupyter Notebooks 
-
-Matplotlib
-
-Pandas 
-
-#	Resultados y discusiones (Graficas)
-
-## Ejemplo de Gráficas y subsecciones
+# Resultados y discusiones (Graficas)
 
 <img height="400" src="https://github.com/TEA-Outgrowers/Outgrower/blob/main/graph_germinated_max.png" align="middle"> 
 
 # Conclusiones
 
 # Proyección futuro 
-Este programa tendrá una gran aplicabilidad ahora y en el futuro para investigadores, los pequeños agricultores, los grandes agricultores e incluso la gente en casa que desea cultivar de forma más eficiente. 
+Este programa es una herramienta bastante importante para el sector agrícola. Especialmente para los investigadores teniendo en cuenta que el experimento se realizó en  laboratorio.Tenemos la intención de recopilar aún más datos sobre más especies en el futuro sobretodo aquellas de gran importancia para las necesidades humanas.
 
 # Developers 
-Ana Murray (ana.murray@est.zamorano.edu ; anamurrayy) 
+Ana Murray (ana.murray@est.zamorano.edu ; [anamurrayy](https://github.com/anamurrayy)  
 
-Angie Palma (angie.palma@est.zamorano.edu; Angiepalma24)
+Angie Palma (angie.palma@est.zamorano.edu; [Angiepalma24](https://github.com/Angiepalma24)
 
-Ayleen Nuñez (ayleen.nunez@est.zamorano.edu; ayleennunez)
+Ayleen Nuñez (ayleen.nunez@est.zamorano.edu; [ayleennunez](https://github.com/ayleennunez)
 
-Daniela Cea (daniela.cea@est.zamorano.edu; Dannncea05
+Daniela Cea (daniela.cea@est.zamorano.edu; [Dannncea05](https://github.com/Dannncea05)
 
-Jorge Caballero(jorge.a.caballero@est.zamorano.edu; jorge1a2caballero)
+Jorge Caballero(jorge.a.caballero@est.zamorano.edu; [jorge1a2caballero](https://github.com/jorge1a2caballero)
 
-Madelyn Barrera(madelyn.barrera@est.zamorano.edu; MadelynBarrera24)
+Madelyn Barrera(madelyn.barrera@est.zamorano.edu; [MadelynBarrera24](https://github.com/MadelynBarrera24)
 
-María Aguirre ( mariajose.aguirre@est.zamorano.edu; mariajoseag77)
+María Aguirre ( mariajose.aguirre@est.zamorano.edu; [mariajoseag77](https://github.com/mariajoseag77)
 
-Mariela Flores (mariela.g.flores@est.zamorano.edu;marielagissellef)
+Mariela Flores (mariela.g.flores@est.zamorano.edu;[marielagissellef](https://github.com/marielagissellef)
 
-Maryori Flores (maryori.flores@est.zamorano.edu;maryori23)
+Maryori Flores (maryori.flores@est.zamorano.edu;[maryori23](https://github.com/maryori23)
 
-Widlyn Placide(widlyn.placide@est.zamorano.edu; Widcrypt) 
+Widlyn Placide(widlyn.placide@est.zamorano.edu; [Widcrypt](https://github.com/Widcrypt)  
 
 
 # Fuente de datos: (tabla)
 La fuente proporciona información estadística sobre diferentes temas y sobre diferentes países descargable en formato CSV o DOC.
 #enlace de datos lipia y original
 
+# Agradecimiento
+Agradecemos enormemente al [Dr. Servio Palacios](https://github.com/maverick-zhn) y al ingeniero [Gonzalo Maradiaga](https://github.com/gonzalomaradiaga) por su apoyo en la realización de este proyecto.
 # Referencias: 
-
 https://vincentarelbundock.github.io/Rdatasets/datasets.html 
 Ritz, C., Pipper, C. B., & Streibig, J. C. (2013). Analysis of germination data from agricultural experiments. European Journal of Agronomy, 45, 1-6.
