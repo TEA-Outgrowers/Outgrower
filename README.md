@@ -43,25 +43,25 @@ Se ha utilizado el "open source" **[Pandas](https://pandas.pydata.org/)** para s
 Este programa es una herramienta bastante importante para el sector agrícola. Especialmente para los investigadores teniendo en cuenta que el experimento se realizó en  laboratorio.Tenemos la intención de recopilar aún más datos sobre más especies en el futuro sobretodo aquellas de gran importancia para las necesidades humanas.
 
 # Developers 
-Ana Murray (ana.murray@est.zamorano.edu ; [anamurrayy](https://github.com/anamurrayy)  
+Ana Murray (ana.murray@est.zamorano.edu ; [anamurrayy](https://github.com/anamurrayy))   
 
-Angie Palma (angie.palma@est.zamorano.edu; [Angiepalma24](https://github.com/Angiepalma24)
+Angie Palma (angie.palma@est.zamorano.edu; [Angiepalma24](https://github.com/Angiepalma24))
 
-Ayleen Nuñez (ayleen.nunez@est.zamorano.edu; [ayleennunez](https://github.com/ayleennunez)
+Ayleen Nuñez (ayleen.nunez@est.zamorano.edu; [ayleennunez](https://github.com/ayleennunez))
 
-Daniela Cea (daniela.cea@est.zamorano.edu; [Dannncea05](https://github.com/Dannncea05)
+Daniela Cea (daniela.cea@est.zamorano.edu; [Dannncea05](https://github.com/Dannncea05))
 
-Jorge Caballero(jorge.a.caballero@est.zamorano.edu; [jorge1a2caballero](https://github.com/jorge1a2caballero)
+Jorge Caballero(jorge.a.caballero@est.zamorano.edu; [jorge1a2caballero](https://github.com/jorge1a2caballero))
 
-Madelyn Barrera(madelyn.barrera@est.zamorano.edu; [MadelynBarrera24](https://github.com/MadelynBarrera24)
+Madelyn Barrera(madelyn.barrera@est.zamorano.edu; [MadelynBarrera24](https://github.com/MadelynBarrera24)) 
 
-María Aguirre ( mariajose.aguirre@est.zamorano.edu; [mariajoseag77](https://github.com/mariajoseag77)
+María Aguirre ( mariajose.aguirre@est.zamorano.edu; [mariajoseag77](https://github.com/mariajoseag77))
 
-Mariela Flores (mariela.g.flores@est.zamorano.edu;[marielagissellef](https://github.com/marielagissellef)
+Mariela Flores (mariela.g.flores@est.zamorano.edu;[marielagissellef](https://github.com/marielagissellef))
 
-Maryori Flores (maryori.flores@est.zamorano.edu;[maryori23](https://github.com/maryori23)
+Maryori Flores (maryori.flores@est.zamorano.edu;[maryori23](https://github.com/maryori23))
 
-Widlyn Placide(widlyn.placide@est.zamorano.edu; [Widcrypt](https://github.com/Widcrypt)  
+Widlyn Placide(widlyn.placide@est.zamorano.edu; [Widcrypt](https://github.com/Widcrypt)) 
 
 
 # Fuente de datos: (tabla)
