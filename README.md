@@ -141,7 +141,7 @@ Widlyn Placide      (widlyn.placide@est.zamorano.edu ; [Widcrypt](https://github
 La base de datos de [Vincent Arel-Bundock](https://vincentarelbundock.github.io/Rdatasets/datasets.html) proporciona información estadística sobre diferentes temas y sobre diferentes países descargable en formato CSV o DOC.   
 
 # Agradecimiento
-Agradecemos enormemente al [Dr. Servio Palacios](https://github.com/maverick-zhn) y al ingeniero [Gonzalo Maradiaga](https://github.com/gonzalomaradiaga) por su apoyo en la realización de este proyecto.
+Agradecemos enormemente al [Dr. Servio Palacios](https://github.com/maverick-zhn) y el ingeniero [Gonzalo Maradiaga](https://github.com/gonzalomaradiaga) por su apoyo en la realización de este proyecto.
 
 # Referencias: 
 Doria, J. (2010). Generalidades sobre las semillas: su producción, conservación y almacenamiento. Cultivos tropicales,31(1),0000. http://scielo.sld.cu/scielo.php?script=sci_arttext&pid=S0258- 59362010000100011  
