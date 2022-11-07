@@ -38,6 +38,9 @@ Se ha utilizado el "open source" **[Pandas](https://pandas.pydata.org/)** para s
 <img height="400" src="https://github.com/TEA-Outgrowers/Outgrower/blob/main/graph_germinated_max.png" align="middle"> 
 
 # Conclusiones
+1. Se logró hacer uso del programa Python para llevar a cabo dicho proyecto en relación con la agricultura. 
+2. Determinamos las diferentes temperaturas de cada semilla germinada, con el correcto uso del software. 
+3. Para finalizar, el programa sirve como ayuda para los diferentes agricultores en sus planes de siembra. 
 
 # Proyección futuro 
 Este programa es una herramienta bastante importante para el sector agrícola. Especialmente para los investigadores teniendo en cuenta que el experimento se realizó en  laboratorio.Tenemos la intención de recopilar aún más datos sobre más especies en el futuro sobretodo aquellas de gran importancia para las necesidades humanas.
