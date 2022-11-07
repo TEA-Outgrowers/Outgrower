@@ -1,5 +1,5 @@
 # Outgrower
-< align="center" ![TEA-Outgrowers](https://user-images.githubusercontent.com/112120027/200338079-aa6d80ce-545f-4324-9eff-0993a39a543f.png)> 
+<img height="400" src="https://github.com/TEA-Outgrowers/Outgrower/blob/main/graph_germinated_max.png" align="center"> 
 
 Este proyecto gira en torno a la creación de un software determinar la temperatura óptima requerida para determinar la óptima temperatura para lograr la germinación máxima de una dada cantidad de semillas para los cultivos de trigo, frijol mungo y arroz. 
 
