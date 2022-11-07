@@ -100,8 +100,8 @@ No se hizó la experiencia con la especie de frijol(**rice**)
 
 1. El lenguaje de programación Python puede servir para llevar a cabo proyectos relacionados con la agricultura. 
 
-2. Las librerías y open source de Python facilitan la filtración de datos para un análisis adecuado de informaciones relevantes como la germinación máxima a las      
-   diferentes temperaturas de cada especie.  
+2. Las librerías y open source de Python facilitan la filtración de datos para un análisis adecuado de informaciones 
+   relevantes como la germinación máxima a las diferentes temperaturas de cada especie.  
 
 3. El trigo(**wheat**) tuvó su germinación máxima a los 40°C, el arroz(**rice**) a los 28°C y el frijol mungo(**mungbean**) a los 16°C. 
 
