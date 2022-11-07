@@ -37,13 +37,47 @@ Se ha utilizado el "open source" **[Pandas](https://pandas.pydata.org/)** para s
 
 <img height="400" src="https://github.com/TEA-Outgrowers/Outgrower/blob/main/graph_germinated_max.png" align="middle"> 
 
+- A la temperatura de **10°C** de las 20 semillas: 
+  8 germinaron por la especie de trigo(**wheat**) 
+  9 germinaron por la especie de frijol mungo(**mungbean**)
+  No se hizó la experiencia con la especie de frijol(**rice**) 
+  
+- A la temperatura de **16°C** de las 20 semillas: 
+  10 germinaron por la especie de arroz(**rice**) 
+  8 germinaron por la especie de trigo(**wheat**) 
+  12 germinaron por la especie de frijol mungo(**mungbean**)
+ 
+ **Solo se hizó la experencia con el **mungbean** a las temperaturas de 10 y 16°C. La especie tuvó mayor germinación a la temperatura de 16°C.**
+
+- A la temperatura de **22°C** de las 20 semillas: 
+  9 germinaron por la especie de arroz(**rice**) 
+  12 germinaron por la especie de trigo(**wheat**) 
+  
+ - A la temperatura de **28°C** de las 20 semillas: 
+  17 germinaron por la especie de arroz(**rice**) 
+  8 germinaron por la especie de trigo(**wheat**) 
+  **Se obtuvó un mejor resultado para el arroz en esta situación.**
+  
+- A la temperatura de **34°C** de las 20 semillas: 
+  13 germinaron por la especie de arroz(**rice**) 
+  11 germinaron por la especie de trigo(**wheat**)
+  
+- A la temperatura de **40°C** de las 20 semillas: 
+  12 germinaron por la especie de arroz(**rice**) 
+  17 germinaron por la especie de trigo(**wheat**)   
+  **Se obtuvó un mejor resultado para el trigo en esta situación.**
+  
+- 
 # Conclusiones
-1. Se logró hacer uso del programa Python para llevar a cabo dicho proyecto en relación con la agricultura. 
-2. Determinamos las diferentes temperaturas de cada semilla germinada, con el correcto uso del software. 
-3. Para finalizar, el programa sirve como ayuda para los diferentes agricultores en sus planes de siembra. 
+1. El lenguaje de programación Python puede servir para llevar a cabo proyectos relacionados con la agricultura. 
+2. Las librerías y open source de Python facilitan la filtración de datos para un análisis adecuado de informaciones relevantes como la germinación máxima a las diferentes temperaturas de cada especie.  
+3. El arroz tuvó su germinación máxima a los 40°C, el arroz a los 28°C y el frijol mungo a los 16°C. 
+3. El programa puede ser util en investigaciones sobre las relaciones que pueden existir entre las enzimas que participan en el proceso de germinación y la temperatura.
+4. 
+4. El programa puede servir de guía para los diferentes agricultores en sus planes de siembra. 
 
 # Proyección futuro 
-Este programa es una herramienta bastante importante para el sector agrícola. Especialmente para los investigadores teniendo en cuenta que el experimento se realizó en  laboratorio.Tenemos la intención de recopilar aún más datos sobre más especies en el futuro sobretodo aquellas de gran importancia para las necesidades humanas.
+Este programa es una herramienta bastante importante para el sector agrícola. Especialmente para los investigadores teniendo en cuenta que el experimento se realizó en  laboratorio.Tenemos la intención de recopilar aún más datos sobre más especies en el futuro sobretodo aquellas de gran importancia para las necesidades humanas. También, se espera una investigación en el campo de la bioquímica para analizar el comportamiento de las enzimas entre diferentes temperaturas.  
 
 # Developers 
 Ana Murray (ana.murray@est.zamorano.edu ; [anamurrayy](https://github.com/anamurrayy))   
@@ -67,12 +101,15 @@ Maryori Flores (maryori.flores@est.zamorano.edu;[maryori23](https://github.com/m
 Widlyn Placide(widlyn.placide@est.zamorano.edu; [Widcrypt](https://github.com/Widcrypt)) 
 
 
-# Fuente de datos: (tabla)
-La fuente proporciona información estadística sobre diferentes temas y sobre diferentes países descargable en formato CSV o DOC.
-#enlace de datos lipia y original
+# Fuente de datos: 
+La base de datos de [Vincent Arel-Bundock](https://vincentarelbundock.github.io/Rdatasets/datasets.html) proporciona información estadística sobre diferentes temas y sobre diferentes países descargable en formato CSV o DOC.   
 
 # Agradecimiento
 Agradecemos enormemente al [Dr. Servio Palacios](https://github.com/maverick-zhn) y al ingeniero [Gonzalo Maradiaga](https://github.com/gonzalomaradiaga) por su apoyo en la realización de este proyecto.
 # Referencias: 
-https://vincentarelbundock.github.io/Rdatasets/datasets.html 
+Doria, J. (2010). Generalidades sobre las semillas: su producción, conservación y almacenamiento. Cultivos tropicales, 31(1), 00-00. http://scielo.sld.cu/scielo.php?script=sci_arttext&pid=S0258-59362010000100011 
+
+vincentarel-bundock/Rdatasets.(2020).Germiantion of three crops. Recuperado de https://vincentarelbundock.github.io/Rdatasets/datasets.html 
+
 Ritz, C., Pipper, C. B., & Streibig, J. C. (2013). Analysis of germination data from agricultural experiments. European Journal of Agronomy, 45, 1-6.
+ 
