@@ -6,35 +6,43 @@
 Este proyecto gira en torno a la creación de un software determinar la temperatura óptima requerida para determinar la óptima temperatura para lograr la germinación máxima de una dada cantidad de semillas para los cultivos de trigo, frijol mungo y arroz. 
 
 # Objetivos 
-1. Usar el lenguaje de programación python para crear un programa con aplicabilidad en la agricultura. 
+•	Uso del lenguaje de programación Python para crear un programa con aplicabilidad en la agricultura.
 
-2. Uso del lenguaje de programación python para desarrollar un software que determine las temperaturas óptimas para la germinación de semillas de diferentes cultivos. 
+•	Uso del lenguaje de programación Python para desarrollar un software que determine las temperaturas óptimas para la germinación de mayor cantidad posible de semillas de diferentes cultivos.
 
-3. Brindar al sector agrícola un programa que se pueda aplicar a los planes de siembra de diferentes cultivos con una idea más precisa de la temperatura óptima de germinación. 
+•	Brindar al sector agrícola un programa que se pueda aplicar a los planes de siembra de diferentes cultivos con una idea más precisa de la temperatura óptima de germinación.
+
+•	Proporcionar las informaciones necesarias para realizar un plan de siembra en base a las variaciones de temperaturas.
 
 # Introducción 
+
 La tecnología es cada vez más imprescindible para nosotros hoy en día, porque nos facilita el trabajo en todos los ámbitos.
 El sector agrícola también es uno de los principales beneficiarios. Basándonos en esta observación, como futuros agrónomos, queríamos usarla para
 desarrollar un programa que permitiera determinar con mayor precisión una temperatura media óptima para la germinación ideal de determinadas especies a partir de los datos recogidos tras varios experimentos.
+
+# Definición del problema a resolver
+
+La variación de temperatura en función del lugar donde se cultiva y de la temporada en que estamos influyen mucho en la tasa de germinación de las semillas. Esto puede desencadenar grandes pérdidas de las inversiones de los productores si no toma en cuenta estos factores para crear las condiciones necesarias para obtener un mayor rendimiento en germinación, crecimiento y por ende producción. 
+
+
 
 # Importancia de un tal programa
 Dados los continuos cambios del clima en la actualidad, diversos factores importantes para el sector agrícola están sometidos a variaciones importantes que deben ser consideradas. Dentro de ellas,está la temperatura que es un factor decisivo en el proceso de la germinación, que influye
 sobre las enzimas que regulan la velocidad de las reacciones bioquímicas que ocurren en la
 semilla después de la rehidratación.
-La actividad de cada enzima tiene lugar entre un máximo y
-un mínimo de temperatura, existiendo un óptimo intermedio. Del mismo modo, en el proceso
+La actividad de cada enzima tiene lugar entre un máximo y un mínimo de temperatura, existiendo un óptimo intermedio. Del mismo modo, en el proceso
 de germinación pueden establecerse unos límites similares. Por ello, las semillas sólo germinan
 dentro de un cierto margen de temperatura. Si la temperatura es muy alta o muy baja, la
-geminación no tiene lugar, aunque las demás condiciones sean favorables. 
-Al determinar la temperatura óptimma para que se ocurren estos procesos se puede optar a crear las condiciones necesarios para lograrlos 
+geminación no tiene lugar, aunque las demás condiciones sean favorables. Al determinar la temperatura óptimma para que se ocurren estos procesos se puede optar a crear las condiciones necesarios para lograrlos .
 
-# Métodos y herramientas utilizados  
+# Métodos y herramientas utilizados 
+
 El lenguaje de programación utilizado en la realización de este proyecto es **Python**. Mediante la plataforma Github hemos creado una organización con un repositorio para almacenar la fuente de datos, los códigos generados para obtener los resultados, la documentación y información relativa a los miembros.
 
 Los datos utilizados se recopilaron a partir de un conjuntos de datos de los 
 **[Proyectos de Github por Vincent Arel-Bundock](https://vincentarelbundock.github.io/Rdatasets/datasets.html)**. La fuente de datos seleccionada fue **Germination of three crops** en formato CSV dónde se evaluó diferentes respuestas de germinación de 3 especies: trigo, arroz y mungo frijol entre las temperaturas de 10 a 40 C.
 
-La interfaz web **[Jupyter Notebook](https://jupyter.org/)**  que nos permitió realizar las diferentes codificaciones con el lenguaje python y generar un documento que descargamos para guardarlo en el repositorio Github.
+La interfaz web **[Jupyter Notebook](https://jupyter.org/)** permitió realizar las diferentes codificaciones con el lenguaje python y generar un documento que descargamos para guardarlo en el repositorio Github.
 Se ha utilizado el "open source" **[Pandas](https://pandas.pydata.org/)** para subir la fuente de datos a memoria, leerla para analizar y filtrar las informaciónes más relevantes. Y Las bibliotecas **[Matplotlib](https://matplotlib.org/)** y **[Numpy](https://numpy.org/)** fueron utilizadas para producir los diversos gráficos de manera a  interpretar los resultados. 
 
 # Resultados y discusiones
@@ -103,9 +111,11 @@ No se hizó la experiencia con la especie de frijol(**rice**)
 5. El programa puede servir de guía para los diferentes agricultores en sus planes de siembra.  
 
 # Proyección futuro 
+
 Este programa es una herramienta bastante importante para el sector agrícola. Especialmente para los investigadores teniendo en cuenta que el experimento se realizó en  laboratorio.Tenemos la intención de recopilar aún más datos sobre más especies en el futuro sobretodo aquellas de gran importancia para las necesidades humanas. También, se espera una investigación en el campo de la bioquímica para analizar el comportamiento de las enzimas entre diferentes temperaturas.  
 
-# Developers 
+# Developers
+
 Ana Murray          (ana.murray@est.zamorano.edu ; [anamurrayy](https://github.com/anamurrayy))   
 
 Angie Palma         (angie.palma@est.zamorano.edu ; [Angiepalma24](https://github.com/Angiepalma24))
@@ -134,9 +144,9 @@ La base de datos de [Vincent Arel-Bundock](https://vincentarelbundock.github.io/
 Agradecemos enormemente al [Dr. Servio Palacios](https://github.com/maverick-zhn) y al ingeniero [Gonzalo Maradiaga](https://github.com/gonzalomaradiaga) por su apoyo en la realización de este proyecto.
 
 # Referencias: 
-Doria, J. (2010). Generalidades sobre las semillas: su producción, conservación y almacenamiento. Cultivos tropicales, 31(1), 00-00. http://scielo.sld.cu/scielo.php?script=sci_arttext&pid=S0258-59362010000100011 
+Doria, J. (2010). Generalidades sobre las semillas: su producción, conservación y almacenamiento. Cultivos tropicales,31(1),0000. http://scielo.sld.cu/scielo.php?script=sci_arttext&pid=S0258- 59362010000100011  
 
-vincentarel-bundock/Rdatasets.(2020).Germiantion of three crops. Recuperado de https://vincentarelbundock.github.io/Rdatasets/datasets.html 
+Ritz, C., Pipper, C. B., & Streibig, J. C. (2013). Analysis of germination data from agricultural experiments. European Journal of Agronomy, 45, 1-6.  
 
-Ritz, C., Pipper, C. B., & Streibig, J. C. (2013). Analysis of germination data from agricultural experiments. European Journal of Agronomy, 45, 1-6.
+vincentarel-bundock/Rdatasets.(2020).Germiantion of three crops. Recuperado de  https://vincentarelbundock.github.io/Rdatasets/datasets.html 
  
