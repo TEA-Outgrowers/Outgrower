@@ -33,7 +33,7 @@ Los datos utilizados se recopilaron a partir de un conjuntos de datos de los
 La interfaz web **[Jupyter Notebook](https://jupyter.org/)**  que nos permitió realizar las diferentes codificaciones con el lenguaje python y generar un documento que descargamos para guardarlo en el repositorio Github.
 Se ha utilizado el "open source" **[Pandas](https://pandas.pydata.org/)** para subir la fuente de datos a memoria, leerla para analizar y filtrar las informaciónes más relevantes. Y La biblioteca **[Matplotlib](https://matplotlib.org/)** fue utilizada para producir los diversos gráficos de manera a  interpretar los resultados.
 
-# Resultados y discusiones (Graficas)
+# Resultados y discusiones
 
 <img height="400" src="https://github.com/TEA-Outgrowers/Outgrower/blob/main/graph_germinated_max.png" align="middle"> 
 
