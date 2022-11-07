@@ -40,7 +40,7 @@ geminación no tiene lugar, aunque las demás condiciones sean favorables. Al de
 El lenguaje de programación utilizado en la realización de este proyecto es **Python**. Mediante la plataforma Github hemos creado una organización con un repositorio para almacenar la fuente de datos, los códigos generados para obtener los resultados, la documentación y información relativa a los miembros.
 
 Los datos utilizados se recopilaron a partir de un conjuntos de datos de los 
-**[Proyectos de Github por Vincent Arel-Bundock](https://vincentarelbundock.github.io/Rdatasets/datasets.html)**. La fuente de datos seleccionada fue **Germination of three crops** en formato CSV dónde se evaluó diferentes respuestas de germinación de 3 especies: trigo, arroz y mungo frijol entre las temperaturas de 10 a 40 C.
+**[Proyectos de Github por Vincent Arel-Bundock](https://vincentarelbundock.github.io/Rdatasets/datasets.html)**. La fuente de datos seleccionada fue **Germination of three crops** en formato CSV dónde se evaluó diferentes respuestas de germinación de 3 especies: trigo, arroz y mungo frijol entre las temperaturas de 10 a 40°C.
 
 La interfaz web **[Jupyter Notebook](https://jupyter.org/)** permitió realizar las diferentes codificaciones con el lenguaje python y generar un documento que descargamos para guardarlo en el repositorio Github.
 Se ha utilizado el "open source" **[Pandas](https://pandas.pydata.org/)** para subir la fuente de datos a memoria, leerla para analizar y filtrar las informaciónes más relevantes. Y Las bibliotecas **[Matplotlib](https://matplotlib.org/)** y **[Numpy](https://numpy.org/)** fueron utilizadas para producir los diversos gráficos de manera a  interpretar los resultados. 
