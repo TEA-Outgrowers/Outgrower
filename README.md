@@ -40,13 +40,17 @@ Se ha utilizado el "open source" **[Pandas](https://pandas.pydata.org/)** para s
 - A la temperatura de **10°C** de las 20 semillas: 
 
 8 germinaron por la especie de trigo(**wheat**) 
+
 9 germinaron por la especie de frijol mungo(**mungbean**)
+
 No se hizó la experiencia con la especie de frijol(**rice**) 
 
 - A la temperatura de **16°C** de las 20 semillas: 
  
 10 germinaron por la especie de arroz(**rice**) 
+
 8 germinaron por la especie de trigo(**wheat**) 
+
 12 germinaron por la especie de frijol mungo(**mungbean**)
  
 **Solo se hizó la experencia con el **mungbean** a las temperaturas de 10 y 16°C. La especie tuvó mayor germinación a la temperatura de 16°C.**
@@ -54,23 +58,29 @@ No se hizó la experiencia con la especie de frijol(**rice**)
 - A la temperatura de **22°C** de las 20 semillas: 
  
 9 germinaron por la especie de arroz(**rice**) 
+
 12 germinaron por la especie de trigo(**wheat**) 
   
 - A la temperatura de **28°C** de las 20 semillas: 
  
 17 germinaron por la especie de arroz(**rice**) 
+
 8 germinaron por la especie de trigo(**wheat**) 
+
 **Se obtuvó un mejor resultado para el arroz en esta situación.**
   
 - A la temperatura de **34°C** de las 20 semillas: 
   
 13 germinaron por la especie de arroz(**rice**) 
+
 11 germinaron por la especie de trigo(**wheat**)
   
 - A la temperatura de **40°C** de las 20 semillas: 
 
 12 germinaron por la especie de arroz(**rice**) 
+
 17 germinaron por la especie de trigo(**wheat**)   
+
 **Se obtuvó un mejor resultado para el trigo en esta situación.**
   
  
@@ -92,7 +102,7 @@ No se hizó la experiencia con la especie de frijol(**rice**)
 Este programa es una herramienta bastante importante para el sector agrícola. Especialmente para los investigadores teniendo en cuenta que el experimento se realizó en  laboratorio.Tenemos la intención de recopilar aún más datos sobre más especies en el futuro sobretodo aquellas de gran importancia para las necesidades humanas. También, se espera una investigación en el campo de la bioquímica para analizar el comportamiento de las enzimas entre diferentes temperaturas.  
 
 # Developers 
-Ana Murray (ana.murray@est.zamorano.edu ; [anamurrayy](https://github.com/anamurrayy))   
+Ana Murray          (ana.murray@est.zamorano.edu ; [anamurrayy](https://github.com/anamurrayy))   
 
 Angie Palma         (angie.palma@est.zamorano.edu ; [Angiepalma24](https://github.com/Angiepalma24))
 
@@ -118,6 +128,7 @@ La base de datos de [Vincent Arel-Bundock](https://vincentarelbundock.github.io/
 
 # Agradecimiento
 Agradecemos enormemente al [Dr. Servio Palacios](https://github.com/maverick-zhn) y al ingeniero [Gonzalo Maradiaga](https://github.com/gonzalomaradiaga) por su apoyo en la realización de este proyecto.
+
 # Referencias: 
 Doria, J. (2010). Generalidades sobre las semillas: su producción, conservación y almacenamiento. Cultivos tropicales, 31(1), 00-00. http://scielo.sld.cu/scielo.php?script=sci_arttext&pid=S0258-59362010000100011 
 
