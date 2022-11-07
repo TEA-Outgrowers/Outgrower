@@ -144,7 +144,7 @@ La base de datos de [Vincent Arel-Bundock](https://vincentarelbundock.github.io/
 Agradecemos enormemente al [Dr. Servio Palacios](https://github.com/maverick-zhn) y el ingeniero [Gonzalo Maradiaga](https://github.com/gonzalomaradiaga) por su apoyo en la realización de este proyecto.
 
 # Referencias: 
-Doria, J. (2010). Generalidades sobre las semillas: su producción, conservación y almacenamiento. Cultivos tropicales,31(1),0000. http://scielo.sld.cu/scielo.php?script=sci_arttext&pid=S0258- 59362010000100011  
+Doria, J. (2010). Generalidades sobre las semillas: su producción, conservación y almacenamiento. Cultivos tropicales,31(1),0000. http://scielo.sld.cu/scielo.php?script=sci_arttext&pid=S0258-59362010000100011   
 
 Ritz, C., Pipper, C. B., & Streibig, J. C. (2013). Analysis of germination data from agricultural experiments. European Journal of Agronomy, 45, 1-6.  
 
