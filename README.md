@@ -67,7 +67,7 @@ No se hizó la experiencia con la especie de frijol(**rice**)
 
 8 germinaron por la especie de trigo(**wheat**) 
 
-**Se obtuvó un mejor resultado para el arroz en esta situación.**
+**Se obtuvó un mejor resultado para el arroz a 28°C.**
   
 - A la temperatura de **34°C** de las 20 semillas: 
   
@@ -81,7 +81,7 @@ No se hizó la experiencia con la especie de frijol(**rice**)
 
 17 germinaron por la especie de trigo(**wheat**)   
 
-**Se obtuvó un mejor resultado para el trigo en esta situación.**
+**Se obtuvó un mejor resultado para el trigo a 40°C.**
   
  
 # Conclusiones
