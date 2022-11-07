@@ -38,43 +38,55 @@ Se ha utilizado el "open source" **[Pandas](https://pandas.pydata.org/)** para s
 <img height="400" src="https://github.com/TEA-Outgrowers/Outgrower/blob/main/graph_germinated_max.png" align="middle"> 
 
 - A la temperatura de **10°C** de las 20 semillas: 
-  8 germinaron por la especie de trigo(**wheat**) 
-  9 germinaron por la especie de frijol mungo(**mungbean**)
-  No se hizó la experiencia con la especie de frijol(**rice**) 
-  
+
+8 germinaron por la especie de trigo(**wheat**) 
+9 germinaron por la especie de frijol mungo(**mungbean**)
+No se hizó la experiencia con la especie de frijol(**rice**) 
+
 - A la temperatura de **16°C** de las 20 semillas: 
-  10 germinaron por la especie de arroz(**rice**) 
-  8 germinaron por la especie de trigo(**wheat**) 
-  12 germinaron por la especie de frijol mungo(**mungbean**)
  
- **Solo se hizó la experencia con el **mungbean** a las temperaturas de 10 y 16°C. La especie tuvó mayor germinación a la temperatura de 16°C.**
+10 germinaron por la especie de arroz(**rice**) 
+8 germinaron por la especie de trigo(**wheat**) 
+12 germinaron por la especie de frijol mungo(**mungbean**)
+ 
+**Solo se hizó la experencia con el **mungbean** a las temperaturas de 10 y 16°C. La especie tuvó mayor germinación a la temperatura de 16°C.**
 
 - A la temperatura de **22°C** de las 20 semillas: 
-  9 germinaron por la especie de arroz(**rice**) 
-  12 germinaron por la especie de trigo(**wheat**) 
+ 
+9 germinaron por la especie de arroz(**rice**) 
+12 germinaron por la especie de trigo(**wheat**) 
   
- - A la temperatura de **28°C** de las 20 semillas: 
-  17 germinaron por la especie de arroz(**rice**) 
-  8 germinaron por la especie de trigo(**wheat**) 
-  **Se obtuvó un mejor resultado para el arroz en esta situación.**
+- A la temperatura de **28°C** de las 20 semillas: 
+ 
+17 germinaron por la especie de arroz(**rice**) 
+8 germinaron por la especie de trigo(**wheat**) 
+**Se obtuvó un mejor resultado para el arroz en esta situación.**
   
 - A la temperatura de **34°C** de las 20 semillas: 
-  13 germinaron por la especie de arroz(**rice**) 
-  11 germinaron por la especie de trigo(**wheat**)
+  
+13 germinaron por la especie de arroz(**rice**) 
+11 germinaron por la especie de trigo(**wheat**)
   
 - A la temperatura de **40°C** de las 20 semillas: 
-  12 germinaron por la especie de arroz(**rice**) 
-  17 germinaron por la especie de trigo(**wheat**)   
-  **Se obtuvó un mejor resultado para el trigo en esta situación.**
+
+12 germinaron por la especie de arroz(**rice**) 
+17 germinaron por la especie de trigo(**wheat**)   
+**Se obtuvó un mejor resultado para el trigo en esta situación.**
   
-- 
+ 
 # Conclusiones
+
 1. El lenguaje de programación Python puede servir para llevar a cabo proyectos relacionados con la agricultura. 
-2. Las librerías y open source de Python facilitan la filtración de datos para un análisis adecuado de informaciones relevantes como la germinación máxima a las diferentes temperaturas de cada especie.  
-3. El arroz tuvó su germinación máxima a los 40°C, el arroz a los 28°C y el frijol mungo a los 16°C. 
-3. El programa puede ser util en investigaciones sobre las relaciones que pueden existir entre las enzimas que participan en el proceso de germinación y la temperatura.
-4. 
-4. El programa puede servir de guía para los diferentes agricultores en sus planes de siembra. 
+
+2. Las librerías y open source de Python facilitan la filtración de datos para un análisis adecuado de informaciones relevantes como la germinación máxima a las      
+   diferentes temperaturas de cada especie.  
+
+3. El trigo(**wheat**) tuvó su germinación máxima a los 40°C, el arroz(**rice**) a los 28°C y el frijol mungo(**mungbean**) a los 16°C. 
+
+4. El programa puede ser util en investigaciones sobre las relaciones que pueden existir entre las enzimas que participan en el proceso de germinación y la        
+   temperatura.
+
+5. El programa puede servir de guía para los diferentes agricultores en sus planes de siembra.  
 
 # Proyección futuro 
 Este programa es una herramienta bastante importante para el sector agrícola. Especialmente para los investigadores teniendo en cuenta que el experimento se realizó en  laboratorio.Tenemos la intención de recopilar aún más datos sobre más especies en el futuro sobretodo aquellas de gran importancia para las necesidades humanas. También, se espera una investigación en el campo de la bioquímica para analizar el comportamiento de las enzimas entre diferentes temperaturas.  
@@ -82,23 +94,23 @@ Este programa es una herramienta bastante importante para el sector agrícola. E
 # Developers 
 Ana Murray (ana.murray@est.zamorano.edu ; [anamurrayy](https://github.com/anamurrayy))   
 
-Angie Palma (angie.palma@est.zamorano.edu; [Angiepalma24](https://github.com/Angiepalma24))
+Angie Palma         (angie.palma@est.zamorano.edu ; [Angiepalma24](https://github.com/Angiepalma24))
 
-Ayleen Nuñez (ayleen.nunez@est.zamorano.edu; [ayleennunez](https://github.com/ayleennunez))
+Ayleen Nuñez        (ayleen.nunez@est.zamorano.edu ; [ayleennunez](https://github.com/ayleennunez))
 
-Daniela Cea (daniela.cea@est.zamorano.edu; [Dannncea05](https://github.com/Dannncea05))
+Daniela Cea         (daniela.cea@est.zamorano.edu ; [Dannncea05](https://github.com/Dannncea05))
 
-Jorge Caballero(jorge.a.caballero@est.zamorano.edu; [jorge1a2caballero](https://github.com/jorge1a2caballero))
+Jorge Caballero     (jorge.a.caballero@est.zamorano.edu ; [jorge1a2caballero](https://github.com/jorge1a2caballero))
 
-Madelyn Barrera(madelyn.barrera@est.zamorano.edu; [MadelynBarrera24](https://github.com/MadelynBarrera24)) 
+Madelyn Barrera     (madelyn.barrera@est.zamorano.edu ; [MadelynBarrera24](https://github.com/MadelynBarrera24)) 
 
-María Aguirre ( mariajose.aguirre@est.zamorano.edu; [mariajoseag77](https://github.com/mariajoseag77))
+María Aguirre       (mariajose.aguirre@est.zamorano.edu ; [mariajoseag77](https://github.com/mariajoseag77))
 
-Mariela Flores (mariela.g.flores@est.zamorano.edu;[marielagissellef](https://github.com/marielagissellef))
+Mariela Flores      (mariela.g.flores@est.zamorano.edu ; [marielagissellef](https://github.com/marielagissellef))
 
-Maryori Flores (maryori.flores@est.zamorano.edu;[maryori23](https://github.com/maryori23))
+Maryori Flores      (maryori.flores@est.zamorano.edu ; [maryori23](https://github.com/maryori23))
 
-Widlyn Placide(widlyn.placide@est.zamorano.edu; [Widcrypt](https://github.com/Widcrypt)) 
+Widlyn Placide      (widlyn.placide@est.zamorano.edu ; [Widcrypt](https://github.com/Widcrypt)) 
 
 
 # Fuente de datos: 
