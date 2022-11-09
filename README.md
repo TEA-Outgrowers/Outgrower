@@ -43,7 +43,7 @@ Los datos utilizados se recopilaron a partir de un conjuntos de datos de los
 **[Proyectos de Github por Vincent Arel-Bundock](https://vincentarelbundock.github.io/Rdatasets/datasets.html)**. La fuente de datos seleccionada fue **Germination of three crops** en formato CSV dónde se evaluó diferentes respuestas de germinación de 3 especies: trigo, arroz y mungo frijol entre las temperaturas de 10 a 40°C.
 
 La interfaz web **[Jupyter Notebook](https://jupyter.org/)** permitió realizar las diferentes codificaciones con el lenguaje python y generar un documento que descargamos para guardarlo en el repositorio Github.
-Se ha utilizado el "open source" **[Pandas](https://pandas.pydata.org/)** para subir la fuente de datos a memoria, leerla para analizar y filtrar las informaciónes más relevantes. Y Las bibliotecas **[Matplotlib](https://matplotlib.org/)** y **[Numpy](https://numpy.org/)** fueron utilizadas para producir los diversos gráficos de manera a  interpretar los resultados. 
+Se ha utilizado el "open source" **[Pandas](https://pandas.pydata.org/)** para subir la fuente de datos a memoria, leerla para analizar y filtrar las informaciónes más relevantes. Y Las bibliotecas **[Matplotlib](https://matplotlib.org/)** y **[Numpy](https://numpy.org/)** fueron utilizadas para realizar los diversos gráficos de manera a  interpretar los resultados. 
 
 # Resultados y discusiones
 
@@ -151,6 +151,8 @@ Agradecemos enormemente al [Dr. Servio Palacios](https://github.com/maverick-zhn
 
 # Referencias: 
 Doria, J. (2010). Generalidades sobre las semillas: su producción, conservación y almacenamiento. Cultivos tropicales,31(1),0000. http://scielo.sld.cu/scielo.php?script=sci_arttext&pid=S0258-59362010000100011   
+
+J. D. Hunter, "Matplotlib: A 2D Graphics Environment", Computing in Science & Engineering, vol. 9, no. 3, pp. 90-95, 2007. 
 
 Ritz, C., Pipper, C. B., & Streibig, J. C. (2013). Analysis of germination data from agricultural experiments. European Journal of Agronomy, 45, 1-6.  
 
