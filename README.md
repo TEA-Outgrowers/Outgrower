@@ -156,5 +156,5 @@ J. D. Hunter, "Matplotlib: A 2D Graphics Environment", Computing in Science & En
 
 Ritz, C., Pipper, C. B., & Streibig, J. C. (2013). Analysis of germination data from agricultural experiments. European Journal of Agronomy, 45, 1-6.  
 
-vincentarel-bundock/Rdatasets.(2020).Germiantion of three crops. Recuperado de  https://vincentarelbundock.github.io/Rdatasets/datasets.html 
+vincentarel-bundock/Rdatasets.(2020).Germination of three crops. Recuperado de  https://vincentarelbundock.github.io/Rdatasets/datasets.html 
  
