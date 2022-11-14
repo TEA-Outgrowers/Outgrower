@@ -48,6 +48,7 @@ las condiciones necesarios para lograrlos.
 El lenguaje de programación utilizado en la realización de este proyecto es **Python**. Mediante la plataforma **Github** se creó una organización con los diferentes 
 miembros. También, fue creado un repositorio para almacenar la fuente de datos, los códigos generados para analizar los datos y obtener los resultados, y la 
 documentación.
+
 Los datos utilizados se recopilaron a partir de un conjuntos de datos de los 
 **[Proyectos de Github por Vincent Arel-Bundock](https://vincentarelbundock.github.io/Rdatasets/datasets.html)**. La fuente de datos seleccionada fue **Germination of 
 three crops** en formato CSV dónde se evaluó diferentes respuestas de germinación de 3 especies: trigo, arroz y mungo frijol entre las temperaturas de 10 a 40°C.
