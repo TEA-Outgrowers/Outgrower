@@ -3,14 +3,17 @@
 <img width="500" align="center" src="https://github.com/TEA-Outgrowers/Outgrower/blob/main/Outgrow%20Statistics.png">
 </p>
  
-Este proyecto gira en torno a la creación de un software determinar la temperatura óptima requerida para determinar la óptima temperatura para lograr la germinación máxima de una dada cantidad de semillas para los cultivos de trigo, frijol mungo y arroz. 
+Este proyecto gira en torno a la creación de un software para  determinar la temperatura óptima requerida para lograr la germinación máxima de una dada cantidad de 
+semillas para los cultivos de trigo, frijol mungo y arroz. 
 
 # Objetivos 
 •	Uso del lenguaje de programación Python para crear un programa con aplicabilidad en la agricultura.
 
-•	Uso del lenguaje de programación Python para desarrollar un software que determine las temperaturas óptimas para la germinación de mayor cantidad posible de semillas de diferentes cultivos.
+•	Uso del lenguaje de programación Python para desarrollar un software que determine las temperaturas óptimas para la germinación de mayor cantidad posible de semillas 
+  de diferentes cultivos.
 
-•	Brindar al sector agrícola un programa que se pueda aplicar a los planes de siembra de diferentes cultivos con una idea más precisa de la temperatura óptima de germinación.
+•	Brindar al sector agrícola un programa que se pueda aplicar a los planes de siembra de diferentes cultivos con una idea más precisa de la temperatura óptima de 
+  germinación.
 
 •	Proporcionar las informaciones necesarias para realizar un plan de siembra en base a las variaciones de temperaturas.
 
@@ -18,32 +21,41 @@ Este proyecto gira en torno a la creación de un software determinar la temperat
 
 La tecnología es cada vez más imprescindible para nosotros hoy en día, porque nos facilita el trabajo en todos los ámbitos.
 El sector agrícola también es uno de los principales beneficiarios. Basándonos en esta observación, como futuros agrónomos, queríamos usarla para
-desarrollar un programa que permitiera determinar con mayor precisión una temperatura media óptima para la germinación ideal de determinadas especies a partir de los datos recogidos tras varios experimentos.
+desarrollar un programa que permitiera determinar con mayor precisión una temperatura media óptima para la germinación ideal de determinadas especies a partir de los 
+datos recogidos tras varios experimentos.
 
 # Definición del problema a resolver
 
-La variación de temperatura en función del lugar donde se cultiva y de la temporada en que estamos influyen mucho en la tasa de germinación de las semillas. Esto puede desencadenar grandes pérdidas de las inversiones de los productores si no toma en cuenta estos factores para crear las condiciones necesarias para obtener un mayor rendimiento en germinación, crecimiento y por ende producción. 
-
+La variación de temperatura en función del lugar donde se cultiva y de la temporada en que estamos influyen mucho en la tasa de germinación de las semillas. Esto puede 
+desencadenar grandes pérdidas de las inversiones de los productores si no toma en cuenta estos factores para crear las condiciones necesarias para obtener un mayor 
+rendimiento en germinación, crecimiento y por ende producción. 
 
 
 # Importancia de un tal programa
-Dados los continuos cambios del clima en la actualidad, diversos factores importantes para el sector agrícola están sometidos a variaciones importantes que deben ser consideradas. Dentro de ellas,está la temperatura que es un factor decisivo en el proceso de la germinación, que influye
+
+Dados los continuos cambios del clima en la actualidad, diversos factores importantes para el sector agrícola están sometidos a variaciones importantes que deben ser
+consideradas. Dentro de ellas,está la temperatura que es un factor decisivo en el proceso de la germinación, que influye
 sobre las enzimas que regulan la velocidad de las reacciones bioquímicas que ocurren en la
 semilla después de la rehidratación.
 La actividad de cada enzima tiene lugar entre un máximo y un mínimo de temperatura, existiendo un óptimo intermedio. Del mismo modo, en el proceso
 de germinación pueden establecerse unos límites similares. Por ello, las semillas sólo germinan
 dentro de un cierto margen de temperatura. Si la temperatura es muy alta o muy baja, la
-geminación no tiene lugar, aunque las demás condiciones sean favorables. Al determinar la temperatura óptimma para que se ocurren estos procesos se puede optar a crear las condiciones necesarios para lograrlos .
+geminación no tiene lugar, aunque las demás condiciones sean favorables. Al determinar la temperatura óptimma para que se ocurren estos procesos se puede optar a crear 
+las condiciones necesarios para lograrlos.
 
 # Métodos y herramientas utilizados 
 
-El lenguaje de programación utilizado en la realización de este proyecto es **Python**. Mediante la plataforma Github hemos creado una organización con un repositorio para almacenar la fuente de datos, los códigos generados para obtener los resultados, la documentación y información relativa a los miembros.
-
+El lenguaje de programación utilizado en la realización de este proyecto es **Python**. Mediante la plataforma **Github** se creó una organización con los diferentes 
+miembros. También, fue creado un repositorio para almacenar la fuente de datos, los códigos generados para analizar los datos y obtener los resultados, y la 
+documentación.
 Los datos utilizados se recopilaron a partir de un conjuntos de datos de los 
-**[Proyectos de Github por Vincent Arel-Bundock](https://vincentarelbundock.github.io/Rdatasets/datasets.html)**. La fuente de datos seleccionada fue **Germination of three crops** en formato CSV dónde se evaluó diferentes respuestas de germinación de 3 especies: trigo, arroz y mungo frijol entre las temperaturas de 10 a 40°C.
+**[Proyectos de Github por Vincent Arel-Bundock](https://vincentarelbundock.github.io/Rdatasets/datasets.html)**. La fuente de datos seleccionada fue **Germination of 
+three crops** en formato CSV dónde se evaluó diferentes respuestas de germinación de 3 especies: trigo, arroz y mungo frijol entre las temperaturas de 10 a 40°C.
 
-La interfaz web **[Jupyter Notebook](https://jupyter.org/)** permitió realizar las diferentes codificaciones con el lenguaje python y generar un documento que descargamos para guardarlo en el repositorio Github.
-Se ha utilizado el "open source" **[Pandas](https://pandas.pydata.org/)** para subir la fuente de datos a memoria, leerla para analizar y filtrar las informaciónes más relevantes. Y Las bibliotecas **[Matplotlib](https://matplotlib.org/)** y **[Numpy](https://numpy.org/)** fueron utilizadas para realizar los diversos gráficos de manera a  interpretar los resultados. 
+La interfaz web **[Jupyter Notebook](https://jupyter.org/)** permitió realizar las diferentes codificaciones con el lenguaje python y generar un documento descargable que se guardó en el repositorio Github.
+Se ha utilizado el "open source" **[Pandas](https://pandas.pydata.org/)** para subir la fuente de datos a memoria, leerla para analizar y filtrar las informaciónes más 
+relevantes. Y Las bibliotecas **[Matplotlib](https://matplotlib.org/)** y **[Numpy](https://numpy.org/)** fueron utilizadas para realizar los diversos gráficos de 
+manera a  interpretar los resultados. 
 
 # Resultados y discusiones
 
@@ -98,10 +110,13 @@ No se hizó la experiencia con la especie de frijol(**rice**)
   # Descripción de resultados
  ![image](https://user-images.githubusercontent.com/112120000/200719070-66efc9dd-a19c-4f69-8f31-d08da7de1783.png)
 
-Luego de presentar los datos, en varias ocasiones usando gráficas de barras, y hacer un análisis exhaustivo de 192 registros en nuestra fuente de datos, los resultados nos indican que la tasa de germinación es mayor para el trigo a temperaturas de 10 y 40 grados centigrados dado el tiempo de germinación que presentaron. Si bien no es un parámetro fijo, dado que fueron pruebas de laboratorio, nos facilitan conocer la fiabilidad de las semillas, de esta forma se pueden evaluar la calidad dependiendo de los proveedores y como centro de nuestra investigación, la velocidad de germinación de las diferentes especies de granos a determinadas temperaturas.
-Si bien podemos añadir como variables la humedad y la disposición de nutrientes para cuando sean sembrados en un sustrato o en el suelo preparado, esta investigación nos ayudará a tener resultados controlados y establecer parámetros para futuros sembríos.
+Luego de presentar los datos, usar repetidamente gráficas de barrasy realizar un análisis exhaustivo de 192 registros de nuestra fuente de datos, los resultados
+indican que el trigo tiene una mayor tasa de germinación entre las temperaturas de 10 y 40 grados centígrados dado el tiempo de germinación que presentaron. Aunque no
+es un parámetro fijo, al ser pruebas de laboratorio, nos permiten conocer la fiabilidad de las semillas.Por ejemplo, se podría evaluar la calidad de una semilla
+dependiendo de los proveedores o el  origen tomando en cuenta su respuesta de germinación a diferentes temperaturas.
+Podríamos tomar en cuenta también la humedad y la disponibilidad de nutrientes como variables para cuando se siembran en sustrato o en suelo preparado...
+Esta investigación podría ayudar a tener resultados controlados y establecer parámetros para futuros siembríos.
 
- 
 # Conclusiones
 
 1. El lenguaje de programación Python puede servir para llevar a cabo proyectos relacionados con la agricultura. 
@@ -113,12 +128,17 @@ Si bien podemos añadir como variables la humedad y la disposición de nutriente
 
 4. El programa puede ser util en investigaciones sobre las relaciones que pueden existir entre las enzimas que participan en el proceso de germinación y la        
    temperatura.
+  
+5. El programa puede ser util en la evaluación de calidad de una semilla y su comportamiento dependiendo de su origen al analizar su comportamiento a diferente    
+   temperatura
 
-5. El programa puede servir de guía para los diferentes agricultores en sus planes de siembra.  
+6. El programa puede servir de guía para los diferentes agricultores en sus planes de siembra.  
 
 # Proyección futuro 
 
-Este programa es una herramienta bastante importante para el sector agrícola. Especialmente para los investigadores teniendo en cuenta que el experimento se realizó en  laboratorio.Tenemos la intención de recopilar aún más datos sobre más especies en el futuro sobretodo aquellas de gran importancia para las necesidades humanas. También, se espera una investigación en el campo de la bioquímica para analizar el comportamiento de las enzimas entre diferentes temperaturas.  
+Este programa es una herramienta bastante importante para el sector agrícola. Especialmente para los investigadores teniendo en cuenta que el experimento se realizó en
+laboratorio.Tenemos la intención de recopilar aún más datos sobre más especies en el futuro sobretodo aquellas de gran importancia para las necesidades humanas. 
+También, se espera una investigación en el campo de la bioquímica para analizar el comportamiento de las enzimas entre diferentes temperaturas.  
 
 # Developers
 
@@ -144,15 +164,26 @@ Widlyn Placide      (widlyn.placide@est.zamorano.edu ; [Widcrypt](https://github
 
 
 # Fuente de datos: 
-La base de datos de [Vincent Arel-Bundock](https://vincentarelbundock.github.io/Rdatasets/datasets.html) proporciona información estadística sobre diferentes temas y sobre diferentes países descargable en formato CSV o DOC.   
+La base de datos de [Vincent Arel-Bundock](https://vincentarelbundock.github.io/Rdatasets/datasets.html) proporciona información estadística sobre diferentes temas y 
+sobre diferentes países descargable en formato CSV o DOC.   
 
 # Agradecimiento
-Agradecemos enormemente al [Dr. Servio Palacios](https://github.com/maverick-zhn) y el ingeniero [Gonzalo Maradiaga](https://github.com/gonzalomaradiaga) por su apoyo en la realización de este proyecto. Agradecemos su tiempo en cada una de nuestras consultas al momento de poner en marcha el proyecto.
+Agradecemos enormemente al [Dr. Servio Palacios](https://github.com/maverick-zhn) y el ingeniero [Gonzalo Maradiaga](https://github.com/gonzalomaradiaga) por su apoyo 
+en la realización de este proyecto. Agradecemos su tiempo en cada una de nuestras consultas al momento de poner en marcha el proyecto.
 
 # Referencias: 
-Doria, J. (2010). Generalidades sobre las semillas: su producción, conservación y almacenamiento. Cultivos tropicales,31(1),0000. http://scielo.sld.cu/scielo.php?script=sci_arttext&pid=S0258-59362010000100011   
+Doria, J. (2010). Generalidades sobre las semillas: su producción, conservación y almacenamiento. Cultivos tropicales,31(1),0000. http://scielo.sld.cu/scielo.php?
+script=sci_arttext&pid=S0258-59362010000100011 
+
+Harris, C. R., Millman, K. J., van der Walt, S. J., Gommers, R., Virtanen, P., Cournapeau, D., … Oliphant, T. E. (2020). Array programming with NumPy. Nature, 585, 
+357–362. https://doi.org/10.1038/s41586-020-2649-2
 
 J. D. Hunter, "Matplotlib: A 2D Graphics Environment", Computing in Science & Engineering, vol. 9, no. 3, pp. 90-95, 2007. 
+
+Kluyver, T., Ragan-Kelley, B., Fernando P&#x27;erez, Granger, B., Bussonnier, M., Frederic, J., … Willing, C. (2016). Jupyter Notebooks – a publishing format for 
+reproducible computational workflows. In F. Loizides & B. Schmidt (Eds.), Positioning and Power in Academic Publishing: Players, Agents and Agendas (pp. 87–90).
+
+McKinney, W., & others. (2010). Data structures for statistical computing in python. In Proceedings of the 9th Python in Science Conference (Vol. 445, pp. 51–56).
 
 Ritz, C., Pipper, C. B., & Streibig, J. C. (2013). Analysis of germination data from agricultural experiments. European Journal of Agronomy, 45, 1-6.  
 
