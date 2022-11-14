@@ -129,10 +129,10 @@ Esta investigación podría ayudar a tener resultados controlados y establecer p
 4. El programa puede ser util en investigaciones sobre las relaciones que pueden existir entre las enzimas que participan en el proceso de germinación y la 
    temperatura.
  
-5. El programa puede ser util en la evaluación de calidad de una semilla y su comportamiento dependiendo de su origen al analizar su comportamiento a diferentes    
+5. El programa puede ser util en la evaluación de calidad de una semilla y su comportamiento dependiendo de su origen al analizar su comportamiento a diferentes 
    temperaturas.
-   
-6. El programa puede servir de guía para los diferentes agricultores en sus planes de siembra.  
+ 
+7. El programa puede servir de guía para los diferentes agricultores en sus planes de siembra.  
 
 # Proyección futuro 
 
