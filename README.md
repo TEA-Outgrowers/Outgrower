@@ -126,12 +126,12 @@ Esta investigación podría ayudar a tener resultados controlados y establecer p
 
 3. El trigo(**wheat**) tuvó su germinación máxima a los 40°C, el arroz(**rice**) a los 28°C y el frijol mungo(**mungbean**) a los 16°C. 
 
-4. El programa puede ser util en investigaciones sobre las relaciones que pueden existir entre las enzimas que participan en el proceso de germinación y la        
+4. El programa puede ser util en investigaciones sobre las relaciones que pueden existir entre las enzimas que participan en el proceso de germinación y la 
    temperatura.
-  
+ 
 5. El programa puede ser util en la evaluación de calidad de una semilla y su comportamiento dependiendo de su origen al analizar su comportamiento a diferente    
    temperatura
-
+   
 6. El programa puede servir de guía para los diferentes agricultores en sus planes de siembra.  
 
 # Proyección futuro 
