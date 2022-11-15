@@ -36,7 +36,7 @@ rendimiento en germinación, crecimiento y por ende producción.
 Dados los continuos cambios del clima en la actualidad, diversos factores importantes para el sector agrícola están sometidos a variaciones importantes que deben ser
 consideradas. Dentro de ellas,está la temperatura que es un factor decisivo en el proceso de la germinación, que influye
 sobre las enzimas que regulan la velocidad de las reacciones bioquímicas que ocurren en la
-semilla después de la rehidratación.
+semilla después de la rehidratación(infoAgro, s.f.).
 La actividad de cada enzima tiene lugar entre un máximo y un mínimo de temperatura, existiendo un óptimo intermedio. Del mismo modo, en el proceso
 de germinación pueden establecerse unos límites similares. Por ello, las semillas sólo germinan
 dentro de un cierto margen de temperatura. Si la temperatura es muy alta o muy baja, la
@@ -178,6 +178,10 @@ script=sci_arttext&pid=S0258-59362010000100011
 
 Harris, C. R., Millman, K. J., van der Walt, S. J., Gommers, R., Virtanen, P., Cournapeau, D., … Oliphant, T. E. (2020). Array programming with NumPy. Nature, 585, 
 357–362. https://doi.org/10.1038/s41586-020-2649-2
+
+infoAgro. (s.f.). El proceso de la germinación de semillas. Factores que afectan a la germinación.
+https://www.infoagro.com/documentos/el_proceso_germinacion_semillas__factores_que_af
+ectan_a_germinacion.asp
 
 J. D. Hunter, "Matplotlib: A 2D Graphics Environment", Computing in Science & Engineering, vol. 9, no. 3, pp. 90-95, 2007. 
 
