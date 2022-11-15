@@ -180,8 +180,7 @@ Harris, C. R., Millman, K. J., van der Walt, S. J., Gommers, R., Virtanen, P., C
 357–362. https://doi.org/10.1038/s41586-020-2649-2
 
 infoAgro. (s.f.). El proceso de la germinación de semillas. Factores que afectan a la germinación.
-https://www.infoagro.com/documentos/el_proceso_germinacion_semillas__factores_que_af
-ectan_a_germinacion.asp
+https://www.infoagro.com/documentos/el_proceso_germinacion_semillas__factores_que_afectan_a_germinacion.asp
 
 J. D. Hunter, "Matplotlib: A 2D Graphics Environment", Computing in Science & Engineering, vol. 9, no. 3, pp. 90-95, 2007. 
 
