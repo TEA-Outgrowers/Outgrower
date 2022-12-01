@@ -27,7 +27,7 @@ datos recogidos tras varios experimentos.
 # Definición del problema a resolver
 
 La variación de temperatura en función del lugar donde se cultiva y de la temporada en que estamos influyen mucho en la tasa de germinación de las semillas. Esto puede 
-desencadenar grandes pérdidas de las inversiones de los productores si no toma en cuenta estos factores para crear las condiciones necesarias para obtener un mayor 
+desencadenar grandes pérdidas de las inversiones de los productores si no se toma en cuenta estos factores para crear las condiciones necesarias para obtener un mayor 
 rendimiento en germinación, crecimiento y por ende producción. 
 
 
@@ -40,7 +40,7 @@ semilla después de la rehidratación(infoAgro, s.f.).
 La actividad de cada enzima tiene lugar entre un máximo y un mínimo de temperatura, existiendo un óptimo intermedio. Del mismo modo, en el proceso
 de germinación pueden establecerse unos límites similares. Por ello, las semillas sólo germinan
 dentro de un cierto margen de temperatura. Si la temperatura es muy alta o muy baja, la
-geminación no tiene lugar, aunque las demás condiciones sean favorables. Al determinar la temperatura óptimma para que se ocurren estos procesos se puede optar a crear 
+geminación no tiene lugar, aunque las demás condiciones sean favorables. Al determinar la temperatura óptima para que se ocurren estos procesos se puede optar a crear 
 las condiciones necesarios para lograrlos.
 
 # Métodos y herramientas utilizados 
@@ -111,7 +111,7 @@ No se hizó la experiencia con la especie de frijol(**rice**)
   # Descripción de resultados
  ![image](https://user-images.githubusercontent.com/112120000/200719070-66efc9dd-a19c-4f69-8f31-d08da7de1783.png)
 
-Luego de presentar los datos, usar repetidamente gráficas de barras y realizar un análisis exhaustivo de 192 registros de nuestra fuente de datos, los resultados
+Luego de presentar los datos, usar diferentes gráficas y realizar un análisis exhaustivo de 192 registros de nuestra fuente de datos, los resultados
 indican que el trigo tiene una mayor tasa de germinación entre las temperaturas de 10 y 40 grados centígrados dado el tiempo de germinación que presentaron. Aunque no
 es un parámetro fijo, al ser pruebas de laboratorio, nos permiten conocer la fiabilidad de las semillas.Por ejemplo, se podría evaluar la calidad de una semilla
 dependiendo de los proveedores o el  origen tomando en cuenta su respuesta de germinación a diferentes temperaturas.
@@ -166,7 +166,7 @@ Widlyn Placide      (widlyn.placide@est.zamorano.edu ; [Widcrypt](https://github
 
 # Fuente de datos: 
 La base de datos de [Vincent Arel-Bundock](https://vincentarelbundock.github.io/Rdatasets/datasets.html) proporciona información estadística sobre diferentes temas y 
-sobre diferentes países descargable en formato CSV o DOC.   
+sobre diferentes países descargable en formato CSV y con un DOC describiendo los datos.   
 
 # Agradecimiento
 Agradecemos enormemente al [Dr. Servio Palacios](https://github.com/maverick-zhn) y el ingeniero [Gonzalo Maradiaga](https://github.com/gonzalomaradiaga) por su apoyo 
