@@ -111,7 +111,7 @@ No se hizó la experiencia con la especie de frijol(**rice**)
   # Descripción de resultados
  ![image](https://user-images.githubusercontent.com/112120000/200719070-66efc9dd-a19c-4f69-8f31-d08da7de1783.png)
 
-Luego de presentar los datos, usar repetidamente gráficas de barrasy realizar un análisis exhaustivo de 192 registros de nuestra fuente de datos, los resultados
+Luego de presentar los datos, usar repetidamente gráficas de barras y realizar un análisis exhaustivo de 192 registros de nuestra fuente de datos, los resultados
 indican que el trigo tiene una mayor tasa de germinación entre las temperaturas de 10 y 40 grados centígrados dado el tiempo de germinación que presentaron. Aunque no
 es un parámetro fijo, al ser pruebas de laboratorio, nos permiten conocer la fiabilidad de las semillas.Por ejemplo, se podría evaluar la calidad de una semilla
 dependiendo de los proveedores o el  origen tomando en cuenta su respuesta de germinación a diferentes temperaturas.
